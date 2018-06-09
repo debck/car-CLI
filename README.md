@@ -4,7 +4,7 @@
 ## USE:
 
 ### Install 
-> npm i cars
+> npm install -g cars
 
 ### use:
 
