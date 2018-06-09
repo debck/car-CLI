@@ -24,4 +24,4 @@
 - sw(Sweden)
 - am(America)	    
 ```
-### If u like it, give it a star 
+### If u like it, give it a star ⭐
