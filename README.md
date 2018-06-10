@@ -1,9 +1,9 @@
 # car-CLI
-### It is a simple CLI tool which give the name of a car that most represent their country Of origin
+### It is a simple CLI tool which give the name of a car that most represent their country Of origin.
 
 ## USE:
 
-### Install 
+### Installation 
 > npm install -g cars
 
 ### use:
@@ -24,4 +24,7 @@
 - sw(Sweden)
 - am(America)	    
 ```
-### If u like it, give it a star ⭐
+### Preview of usage
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33368759/41203447-95079320-6cf4-11e8-88d7-7810fd4e88db.gif">
+ </p>
