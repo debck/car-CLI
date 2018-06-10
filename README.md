@@ -1,5 +1,5 @@
 # car-CLI
-### It is a simple CLI tool which give the name of the car that most represent their country Of origin. Every country has at least one car by which the country can easily be guessed.
+### It is a simple CLI tool which give the name of the car that most represent their country Of origin. Every country has at least one car by which the country can easily be guessed and this CLI tells the name of car depending upon the entered country.
 
 ## USE:
 
