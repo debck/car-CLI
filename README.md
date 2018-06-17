@@ -29,6 +29,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/33368759/41203447-95079320-6cf4-11e8-88d7-7810fd4e88db.gif">
  </p>
-
-
-> This is simply done for the purpose of learning CLI
