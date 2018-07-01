@@ -1,5 +1,5 @@
 # car-CLI
-[![CodeFactor](https://www.codefactor.io/repository/github/debck/car-cli/badge)](https://www.codefactor.io/repository/github/debck/car-cli)   [![npm downloads](https://img.shields.io/npm/dt/cars.svg)](https://www.npmjs.com/package/cars)
+[![CodeFactor](https://www.codefactor.io/repository/github/debck/car-cli/badge)](https://www.codefactor.io/repository/github/debck/car-cli)   [![npm downloads](https://img.shields.io/npm/dt/cars.svg)](https://www.npmjs.com/package/cars) ![Travis CI](https://travis-ci.com/debck/car-CLI.svg?branch=master)
 
 
 
