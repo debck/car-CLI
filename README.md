@@ -1,7 +1,6 @@
 # car-CLI
 [![CodeFactor](https://www.codefactor.io/repository/github/debck/car-cli/badge)](https://www.codefactor.io/repository/github/debck/car-cli)   [![npm downloads](https://img.shields.io/npm/dt/cars.svg)](https://www.npmjs.com/package/cars) ![Travis CI](https://travis-ci.com/debck/car-CLI.svg?branch=master)
 
-![Logo](logo.jpg)
 
 #### It is a simple CLI tool which give the name of the car that most represent their country Of origin.
 #### Every country has at least one car by which the country can easily be guessed and this CLI tells the name of car depending upon the entered country.
